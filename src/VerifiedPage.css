@@ -1,0 +1,29 @@
+.verified-container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .success-icon {
+    color: green;
+    font-size: 3em;
+    margin-bottom: 20px;
+  }
+  
+  .verified-container h1 {
+    color: green;
+    font-size: 2em;
+    margin-bottom: 10px;
+  }
+  
+  .verified-container p {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+  }
+  
+  .qr-container {
+    display: inline-block;
+    padding: 20px;
+    border: 2px solid #ddd;
+    border-radius: 10px;
+  }
+  
