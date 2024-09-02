@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/zain/static/css/main.b0fca8e1.css",
-    "main.js": "/zain/static/js/main.94cf7845.js",
-    "static/js/453.b4672b4f.chunk.js": "/zain/static/js/453.b4672b4f.chunk.js",
-    "index.html": "/zain/index.html",
-    "main.b0fca8e1.css.map": "/zain/static/css/main.b0fca8e1.css.map",
-    "main.94cf7845.js.map": "/zain/static/js/main.94cf7845.js.map",
-    "453.b4672b4f.chunk.js.map": "/zain/static/js/453.b4672b4f.chunk.js.map"
+    "main.css": "/Zain/static/css/main.b0fca8e1.css",
+    "main.js": "/Zain/static/js/main.77ff6663.js",
+    "static/js/453.b4672b4f.chunk.js": "/Zain/static/js/453.b4672b4f.chunk.js",
+    "index.html": "/Zain/index.html",
+    "main.b0fca8e1.css.map": "/Zain/static/css/main.b0fca8e1.css.map",
+    "main.77ff6663.js.map": "/Zain/static/js/main.77ff6663.js.map",
+    "453.b4672b4f.chunk.js.map": "/Zain/static/js/453.b4672b4f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b0fca8e1.css",
-    "static/js/main.94cf7845.js"
+    "static/js/main.77ff6663.js"
   ]
 }
