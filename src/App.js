@@ -4,6 +4,7 @@ import SignIn from './SignIn';
 import SignUp from './SignUp';
 import ForgotPassword from './ForgotPassword';
 import Home from './Home';
+import VerifiedPage from './VerifiedPage';
 import './Auth.css';
 
 function App() {
@@ -32,6 +33,7 @@ function App() {
       <Routes>
         <Route path="/" element={renderView()} />
         <Route path="/home" element={<Home />} />
+        <Route path="/verified" element={<VerifiedPage />} />
       </Routes>
     </Router>
   );

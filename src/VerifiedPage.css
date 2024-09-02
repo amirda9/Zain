@@ -26,4 +26,13 @@
     border: 2px solid #ddd;
     border-radius: 10px;
   }
+
+
+  .loading-container {
+    margin-top: 20px;
+    font-size: 18px;
+    color: #007bff;
+    text-align: center;
+  }
+  
   
